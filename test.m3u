@@ -129,13 +129,13 @@ http://s8.rafail1982.uz/1253/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1456/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Bloomberg
 http://s8.rafail1982.uz/1255/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", CNN
+#EXTINF:-1 group-title="DDoS (uz)", CNN CA
 http://s8.rafail1982.uz/1259/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Deutsche Welle
 http://s8.rafail1982.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Al Jazeera
 http://s8.rafail1982.uz/1433/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Fox News
+#EXTINF:-1 group-title="DDoS (uz)", Fox News Channel US
 http://s8.rafail1982.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", РБК
 http://s8.rafail1982.uz/1438/tracks-v1a1/mono.m3u8
@@ -143,7 +143,7 @@ http://s8.rafail1982.uz/1438/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1261/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", 8TV
 http://s8.rafail1982.uz/1262/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", 365 дней
+#EXTINF:-1 group-title="DDoS (uz)", 365 дней ТВ
 http://s8.rafail1982.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", ТВЦ
 http://s8.rafail1982.uz/1025/tracks-v1a1/mono.m3u8
@@ -191,7 +191,7 @@ http://s8.rafail1982.uz/1036/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Авто 24
 http://s8.rafail1982.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Техно 24
+#EXTINF:-1 group-title="DDoS (uz)", Т 24
 http://s8.rafail1982.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Охота и рыбалка
 http://s8.rafail1982.uz/1038/tracks-v1a1/mono.m3u8
@@ -199,7 +199,7 @@ http://s8.rafail1982.uz/1038/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Наша Сибирь
 http://s8.rafail1982.uz/1424/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Discovery HD
+#EXTINF:-1 group-title="DDoS (uz)", Discovery Channel
 http://s8.rafail1982.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Наука HD
 http://s8.rafail1982.uz/1248/tracks-v1a1/mono.m3u8
@@ -509,6 +509,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
 
 
