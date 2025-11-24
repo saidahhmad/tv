@@ -503,7 +503,9 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", atv
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", TMB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", TMB AZ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
-
