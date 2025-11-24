@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml, http://gabbarit.drm-play.com/epg_lite.xml.gz, https://epg.admuspeh.my"
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml, https://epg.admuspeh.my"
 #EXTINF:-1 group-title="DDoS (uz)", Первый канал
 http://s8.rafail1982.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Первый HD
@@ -509,4 +509,5 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
