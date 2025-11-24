@@ -479,15 +479,15 @@ https://streamer3.connectto.com/373/mono.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Матч Премьер
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT 1
+#EXTINF:-1 group-title="DDoS (uz)", TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT 2
+#EXTINF:-1 group-title="DDoS (uz)", TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Cocuk
+#EXTINF:-1 group-title="DDoS (uz)", TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Diyanet Cocuk
+#EXTINF:-1 group-title="DDoS (uz)", TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -499,13 +499,13 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", 360 TV
+#EXTINF:-1 group-title="DDoS (uz)", 360 TV HD TR
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", atv
+#EXTINF:-1 group-title="DDoS (uz)", ATV HD TR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TMB
+#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://tmb.tv/wp-content/uploads/2023/01/TMB-TV-LOGO.png", TMB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TMB AZ
+#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://tmb.tv/wp-content/uploads/2025/01/tmbtaz-png.png", TMB AZ
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
