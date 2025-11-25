@@ -459,35 +459,36 @@ http://217.21.34.160:38007/stskids/index.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/wja29CQUrOwI1lOQ4-YG1g,1764057203/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/xZD6p86l1dbiOYusmp6x0w,1764100442/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/1D6pSP90GZw2mldfYp4zXw,1764057203/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/16e2qoflPl8eSZvt0XLifw,1764100442/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/S3UwVfC_WibpojlknLR7Kg,1764057203/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/bXPjm3MDgVdwjf_SnN7ltA,1764100442/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=LY4C-8KD2snVncOIfigESg&e=1764057227&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=oL_kg0GGb_Nr58L_9aEP2w&e=1764100459&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=Xc-7yFdjud9CQVpkAoLzRA&e=1764057227&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=gydV6KW74h8WENiaGKafVw&e=1764100459&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=F3v5zsHMUn-Q7biESrR9_Q&e=1764057229&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Пятница HD
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=uHcHMLgrRetSBumyPQh9cg&e=1764057229&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=pwkuu3I8fm8J0BLMxeLLjA&e=1764100460&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Пятница! HD
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=gy7qckTZSkCLmiccU-ZrYw&e=1764100460&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=-ENJZxYgVml5VwUy8QG_Fw&e=1764057230&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=oRC2OijzNRdg2Sxkm81Siw&e=1764100461&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=mGGjcuy6De0QgRl9m63cBw&e=1764057232&scheme=https
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=jTZkd0RaCTYrUyjDuVtPOw&e=1764100462&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=LFCb__5HO1t3DU-PViNWLQ&e=1764057232&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Ю
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=mbjD3ivY7MO6hEXGLyzi1g&e=1764057233&scheme=https3
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=qlNbtBdS8lptkouALu9CSw&e=1764100463&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Ю ТВ
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=SDmQ20Y24ljqXlA9BUSLug&e=1764100463&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Mr.Bean Cartoon
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=4OLqnKxJBuCvGUr975ZnFg&e=1764057237&scheme=https
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=gX4xKROmmzk1zVKq-nUxYg&e=1764100466&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Восток ТВ
-https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=aVsH_9q5U5XJSJFOF1MyjA&e=1764057286&scheme=https
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=MrCh2vA7nR4pku1pA-0a5w&e=1764100532&scheme=https
 
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
 
