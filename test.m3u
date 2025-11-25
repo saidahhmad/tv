@@ -421,7 +421,7 @@ http://s8.rafail1982.uz/1499/tracks-v1a1/mono.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Avaz
+#EXTINF:-1 group-title="DDoS (uz)", TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", TRT ÇOCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -489,6 +489,3 @@ https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=Mr
 
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
-
-
