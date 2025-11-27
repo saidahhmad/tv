@@ -1,490 +1,516 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml, https://epg.admuspeh.my"
-#EXTINF:-1 group-title="DDoS (uz)", Первый канал
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Первый канал
 http://s8.rafail1982.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Первый HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Первый HD
 http://s8.rafail1982.uz/1214/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Россия 1
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Россия 1
 http://s8.rafail1982.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Россия 1 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Россия 24
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Россия 24
 http://s8.rafail1982.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Россия 24 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", НТВ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",НТВ
 http://s8.rafail1982.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", НТВ Мир
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",НТВ Мир
 http://s8.rafail1982.uz/1434/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", ТВ3
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",ТВ3
 http://s8.rafail1982.uz/1435/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Viju+ Sport
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Viju+ Sport
 http://s8.rafail1982.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Trace Sport Stars
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Trace Sport Stars
 http://s8.rafail1982.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Setanta Sports 1 HD
 https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Setanta Sports 2 HD
 https://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Setanta Sports 1 HD
 http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Setanta Sports 2 HD
 http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Eurosport 1
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Eurosport 1
 http://s8.rafail1982.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Eurosport 1 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Eurosport 1 HD
 https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Eurosport 2 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Eurosport 2 HD
 https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", MMA-TV.com
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",MMA-TV.com
 http://s8.rafail1982.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", MMA-TV.com HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",MMA-TV.com HD
 https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", KHL
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",KHL
 http://s8.rafail1982.uz/1028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Кинохит
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Кинохит
 http://s8.rafail1982.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Кинопремьера HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Кинопремьера HD
 http://s8.rafail1982.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Киносемья
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Киносемья
 http://s8.rafail1982.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Киносерия
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Киносерия
 http://s8.rafail1982.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Киносвидание
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Киносвидание
 http://s8.rafail1982.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Киномикс
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Киномикс
 http://s8.rafail1982.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Кинокомедия
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Кинокомедия
 http://s8.rafail1982.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Наше новое кино
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Наше новое кино
 http://s8.rafail1982.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Индийское кино
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Индийское кино
 http://s8.rafail1982.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Родное кино
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Родное кино
 http://s8.rafail1982.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Мужское кино
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Мужское кино
 http://s8.rafail1982.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Дом кино
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Дом кино
 http://s8.rafail1982.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Кинопоказ HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Кинопоказ HD
 http://s8.rafail1982.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Viju TV1000
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Viju TV1000
 http://s8.rafail1982.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Viju TV1000 Русское
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Viju TV1000 Русское
 http://s8.rafail1982.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",Viju TV1000 Action
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Viju TV1000 Action
 http://s8.rafail1982.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Hollywood
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Hollywood
 http://s8.rafail1982.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Bollywood HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Bollywood HD
 http://s8.rafail1982.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Cinema
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Cinema
 http://s8.rafail1982.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Cinema HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Cinema HD
 https://vod.splay.uz/live_splay/original/CinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", AzTV
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",AzTV
 http://s8.rafail1982.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Qazaqstan
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Qazaqstan
 http://s8.rafail1982.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Хабар 24
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Хабар 24
 http://s8.rafail1982.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/wMBp01BT/kbs.png", KBS World
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMBp01BT/kbs.png"group-title="DDoS (uz)",KBS World
 http://s8.rafail1982.uz/1448/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", NHK World HD JP
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",NHK World HD JP
 http://s8.rafail1982.uz/1449/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/bJfmgW39/euro.png", Euronews
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJfmgW39/euro.png"group-title="DDoS (uz)",Euronews
 http://s8.rafail1982.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", France 24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJfmgW39/euro.png"group-title="DDoS (uz)",Euronews
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",France 24
 http://s8.rafail1982.uz/1241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", BBC World News
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",BBC World News
 http://s8.rafail1982.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", CGTN
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",CGTN
 http://s8.rafail1982.uz/1253/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", CGTN Русский
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",CGTN Русский
 http://s8.rafail1982.uz/1456/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/gj0WNx0c/blo.png", Bloomberg
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj0WNx0c/blo.png"group-title="DDoS (uz)",Bloomberg
 http://s8.rafail1982.uz/1255/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", CNN CA
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",CNN CA
 http://s8.rafail1982.uz/1259/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/cHGFh2Xh/dw.png", Deutsche Welle
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHGFh2Xh/dw.png"group-title="DDoS (uz)",Deutsche Welle
 http://s8.rafail1982.uz/1418/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Al Jazeera
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Al Jazeera
 http://s8.rafail1982.uz/1433/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Fox News Channel US
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Fox News Channel US
 http://s8.rafail1982.uz/1252/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", РБК
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",РБК
 http://s8.rafail1982.uz/1438/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/90fhJDf4/tug.png", Туган тел
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90fhJDf4/tug.png"group-title="DDoS (uz)",Туган тел
 http://s8.rafail1982.uz/1261/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/kG5mf256/8tv.png", 8TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG5mf256/8tv.png"group-title="DDoS (uz)",8TV
 http://s8.rafail1982.uz/1262/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", 365 дней ТВ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",365 дней ТВ
 http://s8.rafail1982.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", ТВЦ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",ТВЦ
 http://s8.rafail1982.uz/1025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Точка отрыва
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Точка отрыва
 http://s8.rafail1982.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Детский мир
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Детский мир
 http://s8.rafail1982.uz/1032/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Уникум
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Уникум
 http://s8.rafail1982.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Карусель
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Карусель
 http://s8.rafail1982.uz/1034/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Da Vinci
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Da Vinci
 http://s8.rafail1982.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", СТС Kids HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",СТС Kids HD
 http://s8.rafail1982.uz/1437/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Мама
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Мама
 http://s8.rafail1982.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Мульт
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Мульт
 http://s8.rafail1982.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", В гостях у сказки
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",В гостях у сказки
 http://s8.rafail1982.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Duck TV
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Duck TV
 http://s8.rafail1982.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Капитан Фантастика
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Капитан Фантастика
 http://s8.rafail1982.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Рыжий
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Рыжий
 http://s8.rafail1982.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Мультиландия
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Мультиландия
 http://s8.rafail1982.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Tiji TV
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Tiji TV
 http://s8.rafail1982.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Gulli Girl
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Gulli Girl
 http://s8.rafail1982.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Смайлик ТВ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Смайлик ТВ
 http://s8.rafail1982.uz/1425/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", ENGLISH CLUB TV
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",ENGLISH CLUB TV
 http://s8.rafail1982.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Моя Планета
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Моя Планета
 http://s8.rafail1982.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Телекафе
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Телекафе
 http://s8.rafail1982.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Авто Плюс
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Авто Плюс
 http://s8.rafail1982.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Драйв
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Драйв
 http://s8.rafail1982.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Авто 24
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Авто 24
 http://s8.rafail1982.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Т 24
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Т 24
 http://s8.rafail1982.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Охота и рыбалка
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Охота и рыбалка
 http://s8.rafail1982.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Охотник и рыболов HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Охотник и рыболов HD
 http://s8.rafail1982.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Наша Сибирь
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Наша Сибирь
 http://s8.rafail1982.uz/1424/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Discovery Channel
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Discovery Channel
 http://s8.rafail1982.uz/1039/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Наука HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Наука HD
 http://s8.rafail1982.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", История
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",История
 http://s8.rafail1982.uz/1266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", National Geographic
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",National Geographic
 http://s8.rafail1982.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", National Geographic Wild
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",National Geographic Wild
 http://s8.rafail1982.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Океан
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Океан
 http://s8.rafail1982.uz/1473/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Animal Planet
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Animal Planet
 http://s8.rafail1982.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", В мире животных
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",В мире животных
 http://s8.rafail1982.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Домашние животные
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Домашние животные
 http://s8.rafail1982.uz/1426/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Живая планета
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Живая планета
 http://s8.rafail1982.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Живая природа
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Живая природа
 http://s8.rafail1982.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Усадьба
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Усадьба
 http://s8.rafail1982.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Загородный
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Загородный
 http://s8.rafail1982.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Сарафан
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Сарафан
 http://s8.rafail1982.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/kG5mf25J/jivi.png", Живи Активно
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG5mf25J/jivi.png"group-title="DDoS (uz)",Живи Активно
 http://s8.rafail1982.uz/1405/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Живи!
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Живи!
 http://s8.rafail1982.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Здоровое ТВ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Здоровое ТВ
 http://s8.rafail1982.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Доктор
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Доктор
 http://s8.rafail1982.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Viju Explore
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Viju Explore
 http://s8.rafail1982.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Viju History
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Viju History
 http://s8.rafail1982.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Viju Nature
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Viju Nature
 http://s8.rafail1982.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Zooпарк
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Zooпарк
 http://s8.rafail1982.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Первый космический HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Первый космический HD
 http://s8.rafail1982.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Инсайт ТВ UHD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Инсайт ТВ UHD
 http://s8.rafail1982.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Приключения
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Приключения
 http://s8.rafail1982.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Глазами туриста
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Глазами туриста
 http://s8.rafail1982.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Вопросы и ответы
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Вопросы и ответы
 http://s8.rafail1982.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Арсенал
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Арсенал
 http://s8.rafail1982.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Ретро
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Ретро
 http://s8.rafail1982.uz/1047/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Россия К
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Россия К
 http://s8.rafail1982.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Россия К HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Матч! Планета
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Матч! Планета
 http://s8.rafail1982.uz/1049/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Звезда
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Звезда
 http://s8.rafail1982.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Fashion TV
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Fashion TV
 http://s8.rafail1982.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Дорама
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Дорама
 http://s8.rafail1982.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Дорама HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Дорама HD
 https://vod.splay.uz/live_splay/original/Dorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Русский детектив
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Русский детектив
 https://vod.splay.uz/live_splay/original/RusskiyDetektiv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Русский детектив
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Русский детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Русский бестселлер
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Русский бестселлер
 https://flussonic.salomtv.uz/russkiy_bestseller/video.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Музыка Первого
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Музыка Первого
 http://s8.rafail1982.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", RU TV
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",RU TV
 http://s8.rafail1982.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Bridge Classic orig
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Bridge Classic orig
 http://s8.rafail1982.uz/1269/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/mkrs8Prt/fuel.png", Fuel TV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkrs8Prt/fuel.png"group-title="DDoS (uz)",Fuel TV
 http://s8.rafail1982.uz/1280/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Muzik TR
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT Muzik TR
 http://s8.rafail1982.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Haber
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT Haber
 http://s8.rafail1982.uz/1257/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT AVAZ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT AVAZ
 http://s8.rafail1982.uz/1258/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Ля-минор ТВ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Ля-минор ТВ
 http://s8.rafail1982.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", МУЗ-ТВ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",МУЗ-ТВ
 http://s8.rafail1982.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Мир
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Мир
 http://s8.rafail1982.uz/1218/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Мир 24
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Мир 24
 http://s8.rafail1982.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Точка.РФ HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Точка.РФ HD
 http://s8.rafail1982.uz/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Кухня
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Кухня
 http://s8.rafail1982.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Домашний
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Домашний
 http://s8.rafail1982.uz/1436/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/g2mBG1t2/sevimli.png", Sevimli UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2mBG1t2/sevimli.png"group-title="DDoS (uz)",Sevimli UZ
 http://s8.rafail1982.uz/1056/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/g2mBG1t2/sevimli.png", Sevimli HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2mBG1t2/sevimli.png"group-title="DDoS (uz)",Sevimli HD UZ
 http://s8.rafail1982.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png", ZOR TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png"group-title="DDoS (uz)",ZOR TV UZ
 http://s8.rafail1982.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png", ZOR TV HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png"group-title="DDoS (uz)",ZOR TV HD UZ
 https://vod.splay.uz/live_splay/original/Zor_TVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png", Milliy TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png"group-title="DDoS (uz)",Milliy TV UZ
 http://s8.rafail1982.uz/1216/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png", Milliy TV HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png"group-title="DDoS (uz)",Milliy TV HD UZ
 http://s8.rafail1982.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/3NNfg7Tq/my5.png", MY5 UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NNfg7Tq/my5.png"group-title="DDoS (uz)",MY5 UZ
 http://s8.rafail1982.uz/1217/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/3NNfg7Tq/my5.png", MY5 HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NNfg7Tq/my5.png"group-title="DDoS (uz)",MY5 HD UZ
 http://s8.rafail1982.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/brZ3BhvZ/ftv.png", FTV HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brZ3BhvZ/ftv.png"group-title="DDoS (uz)",FTV HD UZ
 http://s8.rafail1982.uz/1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/nVqkM0DC/muzuz.png", Муз ТВ UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVqkM0DC/muzuz.png"group-title="DDoS (uz)",Муз ТВ UZ
 http://s8.rafail1982.uz/1063/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/L5xvXWgz/kinot.png", Kinoteatr UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5xvXWgz/kinot.png"group-title="DDoS (uz)",Kinoteatr UZ
 http://s8.rafail1982.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/L5xvXWgz/kinot.png", Kinoteatr RU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5xvXWgz/kinot.png"group-title="DDoS (uz)",Kinoteatr RU
 http://s8.rafail1982.uz/1009/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png", Futbol TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png"group-title="DDoS (uz)",Futbol TV UZ
 http://s8.rafail1982.uz/1010/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png", Futbol TV RU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png"group-title="DDoS (uz)",Futbol TV RU
 http://s8.rafail1982.uz/1010/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png", Futbol TV HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png"group-title="DDoS (uz)",Futbol TV HD UZ
 https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png", Futbol TV HD RU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png"group-title="DDoS (uz)",Futbol TV HD RU
 https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/MpZp7QBk/sport.png", Sport UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpZp7QBk/sport.png"group-title="DDoS (uz)",Sport UZ
 http://s8.rafail1982.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/J7fdzyNz/travel.png", TravelTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7fdzyNz/travel.png"group-title="DDoS (uz)",TravelTV
 http://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/tJsDs5dg/biztv.png", BizTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJsDs5dg/biztv.png"group-title="DDoS (uz)",BizTV UZ
 http://s8.rafail1982.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/tT14wGqf/bizcinema.png", BizCinema UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT14wGqf/bizcinema.png"group-title="DDoS (uz)",BizCinema UZ
 http://s8.rafail1982.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/Y9KFHB8b/bizm.png", BizMusic UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9KFHB8b/bizm.png"group-title="DDoS (uz)",BizMusic UZ
 http://s8.rafail1982.uz/1212/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/4ybLk5gS/lux.png", LuxTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ybLk5gS/lux.png"group-title="DDoS (uz)",LuxTV UZ
 http://s8.rafail1982.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/2SNNhHHG/sc.png", SCinema UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SNNhHHG/sc.png"group-title="DDoS (uz)",SCinema UZ
 http://s8.rafail1982.uz/1498/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/wB6Kb1YW/sm.png", SMusic UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB6Kb1YW/sm.png"group-title="DDoS (uz)",SMusic UZ
 http://s8.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/Cx4M1TFj/istiq.png", IstiqlolTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx4M1TFj/istiq.png"group-title="DDoS (uz)",IstiqlolTV UZ
 http://s8.rafail1982.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/sDd34DxB/ntv.png", NTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDd34DxB/ntv.png"group-title="DDoS (uz)",NTV UZ
 http://s8.rafail1982.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/pLsxvVdY/ikbol.png", S-IKBOL UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLsxvVdY/ikbol.png"group-title="DDoS (uz)",S-IKBOL UZ
 http://s8.rafail1982.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/8PDmQN9M/retro.png", RetroTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PDmQN9M/retro.png"group-title="DDoS (uz)",RetroTV UZ
 http://s8.rafail1982.uz/1290/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/rsCnXJk7/qiziq.png", QiziqTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsCnXJk7/qiziq.png"group-title="DDoS (uz)",QiziqTV UZ
 http://s8.rafail1982.uz/1291/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/1zfxZL4S/myday.png", MYDAYTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zfxZL4S/myday.png"group-title="DDoS (uz)",MYDAYTV UZ
 http://s8.rafail1982.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/1zfxZL4S/myday.png", MYDAYTV HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zfxZL4S/myday.png"group-title="DDoS (uz)",MYDAYTV HD UZ
 https://vod.splay.uz/live_splay/original/Myday/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/3RfdwMFn/itvc.png", iTV Cinema UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RfdwMFn/itvc.png"group-title="DDoS (uz)",iTV Cinema UZ
 http://s8.rafail1982.uz/4000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/5yZywwGF/itvm.png", iTV Music UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yZywwGF/itvm.png"group-title="DDoS (uz)",iTV Music UZ
 http://s8.rafail1982.uz/4001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/v8nn3TYN/uzb11.png", O'zbekiston UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8nn3TYN/uzb11.png"group-title="DDoS (uz)",O'zbekiston UZ
 http://s8.rafail1982.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/v8nn3TYN/uzb11.png", O'zbekiston UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8nn3TYN/uzb11.png"group-title="DDoS (uz)",O'zbekiston UZ
 https://vod.splay.uz/live_splay/original/Uzbekiston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/kgbF3Gw3/yoshlar.png", Yoshlar UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgbF3Gw3/yoshlar.png"group-title="DDoS (uz)",Yoshlar UZ
 http://s8.rafail1982.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/yYNVWSS7/toshkent.png", Toshkent UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYNVWSS7/toshkent.png"group-title="DDoS (uz)",Toshkent UZ
 http://s8.rafail1982.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/wvG7jcT7/uzb24.png", O'zbekiston 24 UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvG7jcT7/uzb24.png"group-title="DDoS (uz)",O'zbekiston 24 UZ
 http://s8.rafail1982.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/k4WkBTf8/rtv.png", Renessans TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4WkBTf8/rtv.png"group-title="DDoS (uz)",Renessans TV UZ
 http://s8.rafail1982.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/50jhb8r0/dasturxon.png", DasturxonTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50jhb8r0/dasturxon.png"group-title="DDoS (uz)",DasturxonTV UZ
 http://s8.rafail1982.uz/1206/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/nV5XbJzq/bola.png", Bolajon UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nV5XbJzq/bola.png"group-title="DDoS (uz)",Bolajon UZ
 http://s8.rafail1982.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/pLMyrJz1/aql.png", Aqlvoy UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLMyrJz1/aql.png"group-title="DDoS (uz)",Aqlvoy UZ
 http://s8.rafail1982.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/h4z5n87h/navon.png", Navo UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4z5n87h/navon.png"group-title="DDoS (uz)",Navo UZ
 http://s8.rafail1982.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/d383j7YV/mada.png", Madaniyat va Marifat UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d383j7YV/mada.png"group-title="DDoS (uz)",Madaniyat va Marifat UZ
 http://s8.rafail1982.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/0QSy96r8/mah.png", Mahalla UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QSy96r8/mah.png"group-title="DDoS (uz)",Mahalla UZ
 http://s8.rafail1982.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/3xFNvHxJ/tarix.png", O'zbekiston tarixi UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xFNvHxJ/tarix.png"group-title="DDoS (uz)",O'zbekiston tarixi UZ
 http://s8.rafail1982.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/VNshYXhN/dunyo.png", Dunyo bo`ylab UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNshYXhN/dunyo.png"group-title="DDoS (uz)",Dunyo bo`ylab UZ
 http://s8.rafail1982.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/T3SxhRzY/uzr.png", Uzreport HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3SxhRzY/uzr.png"group-title="DDoS (uz)",Uzreport HD UZ
 http://s8.rafail1982.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/fbxPZDDV/taraq.png", Taraqqiyot TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbxPZDDV/taraq.png"group-title="DDoS (uz)",Taraqqiyot TV UZ
 http://s8.rafail1982.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/cJS2gVbG/gold.png", Gold Television UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJS2gVbG/gold.png"group-title="DDoS (uz)",Gold Television UZ
 http://s8.rafail1982.uz/4007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/VLwzBCt0/ruxsor.png", Ruxsor TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLwzBCt0/ruxsor.png"group-title="DDoS (uz)",Ruxsor TV UZ
 http://s8.rafail1982.uz/4008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/mrhcf5T2/nuraf.png", Nurafshon TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrhcf5T2/nuraf.png"group-title="DDoS (uz)",Nurafshon TV UZ
 http://s8.rafail1982.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/G3WSmBFh/vodiy.png", Vodiy TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3WSmBFh/vodiy.png"group-title="DDoS (uz)",Vodiy TV UZ
 http://s8.rafail1982.uz/4012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/hGSLzBVG/shifo.png", Shifo TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGSLzBVG/shifo.png"group-title="DDoS (uz)",Shifo TV UZ
 http://s8.rafail1982.uz/1469/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/P5wHpCmX/mimi.png", Mimi TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5wHpCmX/mimi.png"group-title="DDoS (uz)",Mimi TV UZ
 http://s8.rafail1982.uz/1470/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/R0VPrfsY/ttv.png", TTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0VPrfsY/ttv.png"group-title="DDoS (uz)",TTV UZ
 http://s8.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/wv6BV43y/ttvk.png", TTV Kino UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6BV43y/ttvk.png"group-title="DDoS (uz)",TTV Kino UZ
 http://s8.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/q7MmfnbZ/ttvm.png", TTV Musiqa UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7MmfnbZ/ttvm.png"group-title="DDoS (uz)",TTV Musiqa UZ
 https://vod.splay.uz/live_splay/original/TTV_Musiqa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/VNrCbkdS/jiz.png", Jizzax TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrCbkdS/jiz.png"group-title="DDoS (uz)",Jizzax TV UZ
 http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/5thF5WCb/ish.png", ishonch TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5thF5WCb/ish.png"group-title="DDoS (uz)",ishonch TV UZ
 http://s8.rafail1982.uz/1489/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/VNh79p7f/ellik.png", Ellikqala TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNh79p7f/ellik.png"group-title="DDoS (uz)",Ellikqala TV UZ
 http://s8.rafail1982.uz/1495/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/SNxWsJK0/8tv.png", 8TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNxWsJK0/8tv.png"group-title="DDoS (uz)",8TV UZ
 http://s8.rafail1982.uz/1496/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/qB8Z3k3M/amu.png", Amudaryo TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qB8Z3k3M/amu.png"group-title="DDoS (uz)",Amudaryo TV UZ
 http://s8.rafail1982.uz/1491/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/xdmm7Z06/nasaf.png", Nasaf TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdmm7Z06/nasaf.png"group-title="DDoS (uz)",Nasaf TV UZ
 http://s8.rafail1982.uz/2025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/GtJ7wQR0/jas.png", Jaslar TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJ7wQR0/jas.png"group-title="DDoS (uz)",Jaslar TV UZ
 http://s8.rafail1982.uz/1490/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/GtJ7wQCN/mul.png", Muloqot TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJ7wQCN/mul.png"group-title="DDoS (uz)",Muloqot TV UZ
 http://s8.rafail1982.uz/1285/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/VvBGQR8p/live.png", LiveTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvBGQR8p/live.png"group-title="DDoS (uz)",LiveTV UZ
 http://s8.rafail1982.uz/1475/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/6q8tjkKd/makon.png", MakonTV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6q8tjkKd/makon.png"group-title="DDoS (uz)",MakonTV UZ
 http://s8.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/sx96dcrt/dtv.png", Denov TV UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx96dcrt/dtv.png"group-title="DDoS (uz)",Denov TV UZ
 http://s8.rafail1982.uz/1499/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT 1 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT 2 HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT AVAZ
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT ÇOCUK HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT ÇOCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT DIYANET COCUK
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT DIYANET COCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Haber
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Kurdî
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Müzik
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Türk
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT World
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", 360 TV HD TR
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",360 TV HD TR
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", ATV HD TR
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",ATV HD TR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://tmb.tv/wp-content/uploads/2023/01/TMB-TV-LOGO.png", TMB
+#EXTINF:-1 tvg-logo="https://tmb.tv/wp-content/uploads/2023/01/TMB-TV-LOGO.png"group-title="DDoS (uz)",TMB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://tmb.tv/wp-content/uploads/2025/01/tmbtaz-png.png", TMB AZ
+#EXTINF:-1 tvg-logo="https://tmb.tv/wp-content/uploads/2025/01/tmbtaz-png.png"group-title="DDoS (uz)",TMB AZ
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Пятница!
+#EXTINF:-1 tvg-logo=""group-title="UAB Airnet TV",Пятница!
 http://94.232.127.28:8080/piatnica/index.m3u8
-#EXTINF:-1 group-title="Individual Entrepreneur",ТНТ
+#EXTINF:-1 tvg-logo=""group-title="UAB Airnet TV",Мир Сериала
+http://94.232.127.28:8080/mirseriala/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="UAB Airnet TV",ТНТ
+http://94.232.127.28:8080/tnthd/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Individual Entrepreneur",ТНТ
 http://46.8.46.14/tnt/index.m3u8
-#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС HD
+#EXTINF:-1 tvg-logo=""group-title="Individual Entrepreneur",Кино ТВ HD
+http://46.8.46.14/kinotv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Individual Entrepreneur",FAN
+http://46.8.46.14/FAN/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Individual Entrepreneur",КВН ТВ
+http://46.8.46.14/kvn/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Individual Entrepreneur",Cartoon Network
+http://46.8.46.14/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Individual Entrepreneur",Nick Jr
+http://46.8.46.14/nickjr/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Individual Entrepreneur",Nickelodeon
+http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС Love
+http://95.66.188.74/CTC_Love/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ВЛАДИНФО (VPN)",СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",СТС Love
-https://streamer1.connectto.com/471/mono.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",СТС Kids
+#EXTINF:-1 group-title="TEST ⓵",Русский бестселлер
+https://streamer1.connectto.com/464/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Русский роман
+https://streamer1.connectto.com/466/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Русский детектив
+https://streamer1.connectto.com/467/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Премиальное HD
+https://streamer3.connectto.com/373/mono.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Hollywood HD
+http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵", NickToons HD
+http://195.201.170.254/NicktoonsHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Unitary Services Enterprise",СТС Kids HD
 http://217.21.34.160:38007/stskids/index.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Матч! HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Матч! HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/sbi3P7UICemgnORKhtXIhw,1764273312/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/L2R9QxGxU31Y6ezNhrAvig,1764316610/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/odD-276adWo2wXxdX6xVow,1764273312/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/2baofDQd28NDfxj_Ea1n6g,1764273312/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/Kj2F1svZRrawNgLSgKWhjA,1764316610/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Премьер HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/NWAnkShifoUV4nR_njlqdg,1764273312/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/8gEUhO5tqeJD1VOPAimdFw,1764316610/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
+https://mhd128.iptv2022.com/p/he45Xrjz-OiNzqs4XsyqWg,1764316610/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=8-kNkzvtEB7UimwFohFmcQ&e=1764316628&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=I2sB1PgWn1jkyXhdXaf35w&e=1764273330&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=b2OpngbrAtL7by_dpqxaXw&e=1764316628&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=IGDsYZ3ntbRBmcxfGbUmvA&e=1764273331&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=rtQJDpNKurcG1lHd3QNq8g&e=1764316629&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=rtJvDMrxZTxQL-_Ad2zTXg&e=1764273332&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=QQQk9Ny-O_YHwACF1cznhg&e=1764316630&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Пятница! HD
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=P9s1JDdUaExyp-rtt8HTDA&e=1764273332&scheme=https
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=HLXLQPg_ZS9Bj8VrA6YxAw&e=1764316631&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=vuP-FKdn-CU6Q8KboyRU1w&e=1764273334&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=HinoeeByqnwbQOzLQC9tAg&e=1764316631&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=HC62QuK8ddIOWH2E3kKx0Q&e=1764273335&scheme=https
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=TpWU_vfWc8PvF6XsIro4gQ&e=1764316632&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=9fwyBxTR_zGLEs9VrLFMaQ&e=1764273336&scheme=https
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=ULb0_MqUVzNCHFzDydMcQQ&e=1764316633&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ю ТВ
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ffSqx0m-BeWlraEywAfsJg&e=1764273336&scheme=https
-
-#EXTINF:-1 group-title="DDoS (uz)",test
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
