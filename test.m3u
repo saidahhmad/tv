@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml http://gabbarit.drm-play.com/epg_lite.xml.gz"
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Первый канал
 http://s8.rafail1982.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Первый HD
@@ -517,3 +517,4 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=SQ
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=iLqZOipIaRLMaWgk7SEqFg&e=1764402990&scheme=https
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
